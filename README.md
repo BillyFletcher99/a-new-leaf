@@ -1,44 +1,30 @@
-# A New Leaf
+# My React Personal Portfolio
 
-[![License: Unlicense](https://img.shields.io/badge/license-Unlicense-blue.svg)](http://unlicense.org/)
+## Screen Shots of Site
 
-## Table of Contents
+----MAIN----
+![main](https://user-images.githubusercontent.com/105595889/195918276-762b22e2-8424-4842-aa00-6f593b0a0c7f.png)
 
-- [Description](#description)
-- [Installation](#install)
-- [Usage](#usage)
-- [Guidelines](#guidelines)
-- [Test-Instructions](#test)
-- [Licenses](#license)
-- [Contact-Information](#email)
+----SKILLS----
+![skills](https://user-images.githubusercontent.com/105595889/195918285-70057f9b-87a0-43b8-8cf5-2ee0ebd9d1cb.png)
 
-## Description:
+----WORK-----
+![work](https://user-images.githubusercontent.com/105595889/195998200-6f95c960-a1ad-4091-83e6-7bcd7536b5d7.png)
 
-Meet the tamogotchi style of house plants with a twist of education! You have access to all the articles and information you need to take care of your house plants. In addition, take care of your virtual plants and keep them happy by upkeeping their water and happiness levels. Reminders available if you easily forget!
+----CONTACT-----
+![contact](https://user-images.githubusercontent.com/105595889/195998220-7457915c-c46a-4b5a-968b-0437771458fc.png)
 
-## Installation:
+### `What was used`
 
-NA
+#tailwind
+#npm React
+#GH-Pages
+#Nodemon
 
-## Usage:
+##TO DO:
+-Finish aesthetic values of the site
+-Add more projects to work selection
+-Test contact section more
 
-NA
 
-## Guidelines:
-
-NA
-
-## Test Instructions:
-
-NA
-
-## License:
-
-Read more about The Unlicense here:
-[The Unlicense](http://unlicense.org/)
-
-## Contact Information:
-
-GitHub Username: NA
-GitHub Profile: NA
-Email: NA
+LINK TO DEPLOYED PAGE: https://BillyFletcher99.github.io/my-app
